@@ -22,6 +22,9 @@
   - Example usage:
     ```python
     import gc
+    References
+Python Documentation: Memory Management
+Python gc module
 
     # Force a garbage collection
     gc.collect()
