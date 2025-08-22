@@ -21,10 +21,11 @@
   - The `gc` module can be used to control and interact with the garbage collector.
   - Example usage:
     ```python
-    import gc
-    References
-Python Documentation: Memory Management
-Python gc module
+    
+## References
+
+- [Python Documentation: Memory Management](https://docs.python.org/3/c-api/memory.html)
+- [Python gc module](https://docs.python.org/3/library/gc.html)
 
     # Force a garbage collection
     gc.collect()
